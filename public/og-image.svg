@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="text-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d4af37" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="15%" r="55%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b0d0a" />
+  <rect width="1200" height="630" fill="url(#glow)" />
+  <text x="100" y="270" font-family="Georgia, serif" font-size="80" font-weight="700" fill="url(#text-grad)">Lumen</text>
+  <text x="100" y="325" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#9ca39a">Modern E-Commerce Storefront UI</text>
+  <g transform="translate(100,390)">
+    <rect width="220" height="150" rx="12" fill="#13160f" stroke="#2a2f22" />
+    <rect x="16" y="16" width="188" height="90" rx="8" fill="#1a1e15" />
+  </g>
+  <g transform="translate(340,390)">
+    <rect width="220" height="150" rx="12" fill="#13160f" stroke="#2a2f22" />
+    <rect x="16" y="16" width="188" height="90" rx="8" fill="#1a1e15" />
+  </g>
+  <g transform="translate(580,390)">
+    <rect width="220" height="150" rx="12" fill="#13160f" stroke="#2a2f22" />
+    <rect x="16" y="16" width="188" height="90" rx="8" fill="#1a1e15" />
+  </g>
+</svg>
